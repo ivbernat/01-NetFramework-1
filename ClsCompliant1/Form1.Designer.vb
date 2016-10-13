@@ -22,8 +22,8 @@ Partial Class Form1
     'Do not modify it using the code editor.
     <System.Diagnostics.DebuggerStepThrough()> _
     Private Sub InitializeComponent()
-        Me.ButtonGetTime = New System.Windows.Forms.Button
-        Me.TextBoxTime = New System.Windows.Forms.TextBox
+        Me.ButtonGetTime = New System.Windows.Forms.Button()
+        Me.TextBoxTime = New System.Windows.Forms.TextBox()
         Me.SuspendLayout()
         '
         'ButtonGetTime
